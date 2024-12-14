@@ -1,1 +1,13 @@
 # Student-information-system-
+![Admin login](readmeimage/AdminGiriş.jpeg)
+![list student](readmeimage/stuListele.jpeg)
+![formula](readmeimage/Formul.jpeg)
+![academician login](readmeimage/hocaG.jpeg)
+![academician panel](readmeimage/hocaPaneli.jpeg)
+![add area of ​​interest panel](readmeimage/IlgiAlanıEkle.jpeg)
+![send student message panel](readmeimage/mesajGonderstu.jpeg)
+![student login](readmeimage/stuGiriş.jpeg)
+![student panel](readmeimage/ogrenciPaneli.jpeg)
+![send request](readmeimage/talepGönder.jpeg)
+![my requests](readmeimage/Taleplerim.jpeg)
+![transcript view](readmeimage/transkript.jpeg)
